@@ -1,1 +1,7 @@
 /Lib
+/logs/*
+!logs/.gitkeep
+
+Scripts
+share
+Include
