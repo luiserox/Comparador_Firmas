@@ -6,7 +6,6 @@ Scripts
 share
 Include
 Ejemplos
-*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
