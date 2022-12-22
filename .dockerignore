@@ -3,4 +3,5 @@ Lib/
 Scripts/
 Include/
 share/
-
+*.pdf
+*.cfg
